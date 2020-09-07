@@ -1,0 +1,40 @@
+body {
+    font-family: 'Red Rose', cursive !important; 
+}
+
+.jumbotron {
+    max-height:         240px;
+    position:                       relative;
+    padding-bottom:                 6;
+    padding-top:                    0;
+}
+
+h1 {
+    font-size:                      220px;
+}
+
+.panelheading {
+    font-family: 'Red Rose', cursive;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#lefthead {
+    background-color: #0da536;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: #ce2522;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
